@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=V4N1LLA&show_icons=true&theme=radical)
+
 <!--
 **V4N1LLA/V4N1LLA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
