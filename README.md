@@ -1,5 +1,5 @@
 <a href="https://velog.io/@v4n1ll4"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/bubble1549@gmail.com-FFFFFF?style=flat-square&logo=Google&logoColor=black"/></a> 
+<a><img src="https://img.shields.io/badge/bubble1549@gmail.com-FFFFFF?style=flat-square&logo=Google&logoColor=red"/></a> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=V4N1LLA&show_icons=true&theme=radical)
 
