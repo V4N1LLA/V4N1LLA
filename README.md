@@ -8,7 +8,7 @@
 ## 📊 GitHub Stats
 <img
   src="https://github-readme-stats.vercel.app/api?username=V4N1LLA&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=FFA500&text_color=FFD580&icon_color=FF6347"
-  height="240"
+  height="230"
 />
 
 
