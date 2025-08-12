@@ -6,10 +6,9 @@
 > ⚙️ **기능을 만드는 것을 넘어서, 서비스의 신뢰성과 확장성을 고민합니다.**
 
 ## 📊 GitHub Stats
-<img
-  src="https://github-readme-stats.vercel.app/api?username=V4N1LLA&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=FFA500&text_color=FFD580&icon_color=FF6347"
-  height="240"
-/>
+
+[<img src="https://github-readme-stats-livid-eight-44.vercel.app/api?username=V4N1LLA&count_private=true&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFA500&text_color=FFD580&icon_color=FF6347&cache_seconds=21600&v=4" height="240" />](https://github-readme-stats-livid-eight-44.vercel.app/api?username=V4N1LLA&count_private=true&show_icons=true&v=10)
+
 
 
 
