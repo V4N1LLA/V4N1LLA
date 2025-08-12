@@ -7,7 +7,7 @@
 
 ## 📊 GitHub Stats
 
-[<img src="https://github-readme-stats-livid-eight-44.vercel.app/api?username=V4N1LLA&count_private=true&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFA500&text_color=FFD580&icon_color=FF6347&cache_seconds=21600&v=4" height="240" />](https://github-readme-stats-livid-eight-44.vercel.app/api?username=V4N1LLA&count_private=true&show_icons=true&v=10)
+[<img src="https://github-readme-stats-livid-eight-44.vercel.app/api?username=V4N1LLA&count_private=true&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFA500&text_color=FFD580&icon_color=FF6347&cache_seconds=21600&v=4" height="240" />](https://github-readme-stats-livid-eight-44.vercel.app/api?username=V4N1LLA&count_private=true&show_icons=true&cache_seconds=600&v=11)
 
 
 ## 📈 Solved.ac Profile
